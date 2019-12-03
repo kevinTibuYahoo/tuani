@@ -1,3 +1,5 @@
+
+/*tuani*/
 var calculadora = (function(){
 	var 
 		num1, num2, result,
